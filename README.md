@@ -1,5 +1,6 @@
 ## face and eye detectin using FLASK
-```
+
+```Python
 Setting Up Flask: Create a Flask application structure with necessary files and directories.
 
 Installing Dependencies: Install required Python libraries such as OpenCV for image processing.
