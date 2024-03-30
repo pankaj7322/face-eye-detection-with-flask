@@ -12,3 +12,4 @@ Implementing Detection Logic: Write code to detect faces and eyes using OpenCV w
 Rendering Results: Once detection is performed, render the results back to the user interface.
 
 ```
+
